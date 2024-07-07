@@ -2,7 +2,7 @@
 header{
     background-color:#000000;
     border: 5px solid #000000;
-    opacity: 70%;  
+    opacity: 90%;  
 }
 div{
     margin-top: -50px;
@@ -87,7 +87,7 @@ body{
     font-size: 27px;
 }
 #panel{
-    background-color:#000000 ;
+    background-color:#545454 ;
     margin-top: 50px;
     padding-top: 1px;
     margin-left: 60px;
@@ -177,4 +177,16 @@ body{
     margin-right: 10px;
     padding-left: 50px;
     padding-left:50px;
+}
+
+
+
+
+.contact-line{
+    margin-top: 40px;
+    margin-bottom:-40px;
+    color: #85ab54;
+    text-align: center;
+    font-family: "Kode Mono", monospace;
+    font-size: 25px;
 }
