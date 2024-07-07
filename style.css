@@ -1,0 +1,68 @@
+
+header{
+    background-color: rgb(90, 235, 251);
+    border: 5px solid rgb(90, 235, 251);
+    opacity: 50%;
+    margin-top:-820px;
+}
+div{
+    margin-top: -50px;
+    margin-bottom: -5px;
+}
+#background{
+    object-fit: cover;
+    opacity: 0.4;
+}
+a:link {
+    color: rgb(44, 44, 44);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: rgb(44, 44, 44);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: rgb(44, 44, 44);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: rgb(44, 44, 44);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+#project{
+    margin-top: 70px;
+    margin-left:10px;
+}
+#about{
+    margin-left: 110px;
+    margin-top: -47px;
+}
+#contact{
+    margin-left: 190px;
+    margin-top: -47px;
+}
+#centre{
+    font-family: "Anton SC", sans-serif;
+    font-size: 20px;
+    margin-left: 600px;
+    margin-top: -67px;
+}
+#github{
+    margin-left: 1350px;
+    margin-top: -75px;
+}
+#instagram{
+    margin-left: 1405px;
+    margin-top: -60px;
+}
+#linkedin{
+    margin-left: 1460px;
+    margin-top: -60px;
+}
+body{
+    background-color: black;
+}
