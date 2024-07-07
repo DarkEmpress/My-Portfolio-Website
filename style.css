@@ -86,8 +86,32 @@ body{
     text-align: center;
     font-size: 27px;
 }
+#panel{
+    background-color:#000000 ;
+    margin-top: 50px;
+    padding-top: 1px;
+    margin-left: 60px;
+    margin-right: 60px;
+    opacity: 70%;
+}
 .grid{
     width: 400px;
+    height: 400px;
+    opacity: 100%;
+}
+.left{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.centre{
+    margin-top: -405px;
+    margin-left: 490px;
+
+}
+.right{
+    margin-top: -405px;
+    margin-left: 930px;
+
 }
 
 
