@@ -1,9 +1,8 @@
 
 header{
-    background-color: rgb(90, 235, 251);
-    border: 5px solid rgb(90, 235, 251);
-    opacity: 50%;
-    margin-top:-820px;
+    background-color:#000000;
+    border: 5px solid #000000;
+    opacity: 70%;  
 }
 div{
     margin-top: -50px;
@@ -14,22 +13,22 @@ div{
     opacity: 0.4;
 }
 a:link {
-    color: rgb(44, 44, 44);
+    color: rgb(185, 236, 91);
     background-color: transparent;
     text-decoration: none;
   }
   a:visited {
-    color: rgb(44, 44, 44);
+    color: rgb(185, 236, 91);
     background-color: transparent;
     text-decoration: none;
   }
   a:hover {
-    color: rgb(44, 44, 44);
+    color: rgb(185, 236, 91);
     background-color: transparent;
     text-decoration: underline;
   }
   a:active {
-    color: rgb(44, 44, 44);
+    color: rgb(185, 236, 91);
     background-color: transparent;
     text-decoration: underline;
   }
@@ -46,10 +45,11 @@ a:link {
     margin-top: -47px;
 }
 #centre{
-    font-family: "Anton SC", sans-serif;
-    font-size: 20px;
-    margin-left: 600px;
-    margin-top: -67px;
+    font-family: "Chakra Petch", sans-serif;
+    color: rgb(185, 236, 91);
+    font-size: 23px;
+    margin-left: 510px;
+    margin-top: -75px;
 }
 #github{
     margin-left: 1350px;
@@ -66,3 +66,30 @@ a:link {
 body{
     background-color: black;
 }
+#body{
+    color: #85ab54;
+    text-align: center;
+    font-family: "Kode Mono", monospace;
+    font-size: 50px;
+}
+#quote{
+    font-family: "Kode Mono", monospace;
+    color: #85ab54;
+    text-align: center;
+    font-size: 27px;
+}
+#content{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #9bc663;
+    text-align: right;
+    font-size: 20px;
+    margin-top: 150px;
+    margin-left: 800px;
+    margin-right: 100px;
+}
+body {
+    background-image: url('./images/backgroung/bg.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
