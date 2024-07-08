@@ -5,6 +5,8 @@ header{
     opacity: 90%;  
     width: fit-content;
     margin: auto;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 #background{
@@ -32,7 +34,7 @@ a:link {
     text-decoration: underline;
   }
 #project{
-    margin-top: 20px;
+    margin-top: 25px;
     margin-left:10px;
 }
 #about{
@@ -51,15 +53,15 @@ a:link {
     margin-top: -75px;
 }
 #github{
-    margin-left: 1350px;
-    margin-top: -75px;
+    margin-left: 1320px;
+    margin-top: -78px;
 }
 #instagram{
-    margin-left: 1405px;
+    margin-left: 1370px;
     margin-top: -60px;
 }
 #linkedin{
-    margin-left: 1460px;
+    margin-left: 1420px;
     margin-top: -60px;
 }
 body{
