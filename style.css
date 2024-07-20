@@ -25,7 +25,7 @@ a:link {
   }
   a:hover {
     color: rgb(185, 236, 91);
-    background-color: transparent;
+    background-color:transparent;
     text-decoration: underline;
   }
   a:active {
@@ -73,8 +73,6 @@ body{
   }
 
 
-
-
 #body{
     color: #85ab54;
     text-align: center;
@@ -98,11 +96,20 @@ body{
     opacity: 70%;
     padding-right: 50px;
 }
-.grid{
-    width: 400px;
+
+.grid {
     height: 400px;
-    opacity: 100%;
+    width: 400px;
+    opacity: 1;
+    transition: .5s ease;
+    
+  }
+  
+.image:hover .grid {
+    opacity: 0.5;
+    background-color: #008CBA;
 }
+
 .left{
     margin-top: 50px;
     margin-left: 50px;
@@ -117,6 +124,8 @@ body{
     margin-left: 930px;
 
 }
+
+
 
 
 
