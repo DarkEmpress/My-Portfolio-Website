@@ -84,6 +84,8 @@ body{
     font-family: "Kode Mono", monospace;
     font-size: 50px;
 }
+
+
 #quote{
     font-family: "Kode Mono", monospace;
     color: #85ab54;
@@ -94,8 +96,6 @@ body{
     text-align: center;
     font-size: 27px;
 }
-
-
 #bodyp{
     color: #85ab54;
     position: fixed;
@@ -106,6 +106,9 @@ body{
     font-family: "Kode Mono", monospace;
     font-size: 30px;
 }
+
+
+
 #panel{
     height:auto;
     position: relative;
@@ -154,7 +157,7 @@ body{
 #profile{
     width: 320px;
     margin-left: 100px;
-    margin-top: 70px;
+    margin-top: 100px;
     border-radius: 50%;
 }
 #content{
@@ -162,7 +165,7 @@ body{
     color: #9bc663;
     text-align: justify;
     font-size: 20px;
-    margin-top: -310px;
+    margin-top: -300px;
     margin-left: 550px;
     margin-right: 100px;
 }
