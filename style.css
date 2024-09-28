@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+.logo{
+    width: 400px;
+}
+.info{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.content{
+    padding-left: 6vw;
+    width: 40vw;
+    text-align: justify;
+}
