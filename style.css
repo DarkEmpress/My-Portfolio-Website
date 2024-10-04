@@ -88,7 +88,6 @@
 }
 body{
     color: aliceblue;
-    height: 100vh;
     background: rgb(2,0,36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgb(0, 0, 86) 90% );
 }
@@ -104,9 +103,19 @@ button{
     border-radius: 10px;
     padding: 0 7px 5px 7px;
 }
-.links_to_techo{
-    width: fit-content;
-    position: relative;
-    background-color: #021245;
-    border-radius: 30px;
+
+a{
+    text-decoration: none;
+    color: #afb9fa;
+}
+
+.feat> div{
+    background-color: #090069;
+    border-radius: 10px;
+}
+.feat> div>h3{
+    color: #cad2ed;
+}
+.feat> div> p{
+    color: #a19ccd;
 }
